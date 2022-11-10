@@ -9,7 +9,8 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            message: 'Ciao a tuttiii'
+            message: 'Ciao a tuttiii',
+            img: 'https://picsum.photos/200/300'
         }
     }
 );
